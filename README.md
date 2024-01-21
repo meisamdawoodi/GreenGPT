@@ -1,8 +1,6 @@
 # ChatGPT Telegram Bot
 
 
-### Demo
-![demo](https://user-images.githubusercontent.com/11541888/225114786-0d639854-b3e1-4214-b49a-e51ce8c40387.png)
 
 ### Plugins
 ![plugins](https://github.com/n3d1117/chatgpt-telegram-bot/assets/11541888/83d5e0cd-e09a-463d-a292-722f919e929f)
