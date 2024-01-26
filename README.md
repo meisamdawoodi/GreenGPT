@@ -37,11 +37,6 @@
 
   This is the hidden content that will be displayed when the section is expanded.
 
-
-## Additional features - help needed!
-If you'd like to help, check out the [issues](https://github.com/n3d1117/chatgpt-telegram-bot/issues) section and contribute!  
-If you want to help with translations, check out the [Translations Manual](https://github.com/n3d1117/chatgpt-telegram-bot/discussions/219)
-
 PRs are always welcome!
 
 ## Prerequisites
@@ -165,8 +160,8 @@ Check out the [official API reference](https://platform.openai.com/docs/api-refe
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/n3d1117/chatgpt-telegram-bot.git
-cd chatgpt-telegram-bot
+git clone https://github.com/meisamdawoodi/GreenGPT.git
+cd GreenGPT
 ```
 
 #### From Source
